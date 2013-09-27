@@ -1,4 +1,4 @@
 Repositorios-Publicos
 =====================
 
-repositorios de la clase de darwin
+repositorios publicos de la clase  de S.O de Arquitectura de VI semestre 
